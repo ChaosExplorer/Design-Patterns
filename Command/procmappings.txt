@@ -1,0 +1,35 @@
+process 30353
+Mapped address spaces:
+
+          Start Addr           End Addr       Size     Offset objfile
+            0x400000           0x403000     0x3000        0x0 /home/Git-Repository/Design-Patterns/Command/CommandPattern
+            0x602000           0x603000     0x1000     0x2000 /home/Git-Repository/Design-Patterns/Command/CommandPattern
+            0x603000           0x604000     0x1000     0x3000 /home/Git-Repository/Design-Patterns/Command/CommandPattern
+            0x604000           0x625000    0x21000        0x0 [heap]
+      0x7ffff71f8000     0x7ffff73b0000   0x1b8000        0x0 /usr/lib64/libc-2.17.so
+      0x7ffff73b0000     0x7ffff75b0000   0x200000   0x1b8000 /usr/lib64/libc-2.17.so
+      0x7ffff75b0000     0x7ffff75b4000     0x4000   0x1b8000 /usr/lib64/libc-2.17.so
+      0x7ffff75b4000     0x7ffff75b6000     0x2000   0x1bc000 /usr/lib64/libc-2.17.so
+      0x7ffff75b6000     0x7ffff75bb000     0x5000        0x0 
+      0x7ffff75bb000     0x7ffff75d0000    0x15000        0x0 /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+      0x7ffff75d0000     0x7ffff77cf000   0x1ff000    0x15000 /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+      0x7ffff77cf000     0x7ffff77d0000     0x1000    0x14000 /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+      0x7ffff77d0000     0x7ffff77d1000     0x1000    0x15000 /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+      0x7ffff77d1000     0x7ffff78d2000   0x101000        0x0 /usr/lib64/libm-2.17.so
+      0x7ffff78d2000     0x7ffff7ad1000   0x1ff000   0x101000 /usr/lib64/libm-2.17.so
+      0x7ffff7ad1000     0x7ffff7ad2000     0x1000   0x100000 /usr/lib64/libm-2.17.so
+      0x7ffff7ad2000     0x7ffff7ad3000     0x1000   0x101000 /usr/lib64/libm-2.17.so
+      0x7ffff7ad3000     0x7ffff7bbc000    0xe9000        0x0 /usr/lib64/libstdc++.so.6.0.19
+      0x7ffff7bbc000     0x7ffff7dbc000   0x200000    0xe9000 /usr/lib64/libstdc++.so.6.0.19
+      0x7ffff7dbc000     0x7ffff7dc4000     0x8000    0xe9000 /usr/lib64/libstdc++.so.6.0.19
+      0x7ffff7dc4000     0x7ffff7dc6000     0x2000    0xf1000 /usr/lib64/libstdc++.so.6.0.19
+      0x7ffff7dc6000     0x7ffff7ddb000    0x15000        0x0 
+      0x7ffff7ddb000     0x7ffff7dfc000    0x21000        0x0 /usr/lib64/ld-2.17.so
+      0x7ffff7fe9000     0x7ffff7fee000     0x5000        0x0 
+      0x7ffff7ff9000     0x7ffff7ffa000     0x1000        0x0 
+      0x7ffff7ffa000     0x7ffff7ffc000     0x2000        0x0 [vdso]
+      0x7ffff7ffc000     0x7ffff7ffd000     0x1000    0x21000 /usr/lib64/ld-2.17.so
+      0x7ffff7ffd000     0x7ffff7ffe000     0x1000    0x22000 /usr/lib64/ld-2.17.so
+      0x7ffff7ffe000     0x7ffff7fff000     0x1000        0x0 
+      0x7ffffffde000     0x7ffffffff000    0x21000        0x0 [stack]
+  0xffffffffff600000 0xffffffffff601000     0x1000        0x0 [vsyscall]
